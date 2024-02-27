@@ -1,7 +1,7 @@
 # czfe
 This is next js 14 project.
 
-Steps to create a basic Next.js project
+#Steps to create a basic Next.js project
 - Installation and Setup
   Install the latest LTS version of Node.js from the official website. To confirm the installation and to check the version installed run the command "node -v".
 - Creation
