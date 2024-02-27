@@ -1,7 +1,7 @@
 # czfe
 This is next js 14 project.
 
-#Steps to create a basic Next.js project
+# Steps to create a basic Next.js project
 - Installation and Setup
   Install the latest LTS version of Node.js from the official website. To confirm the installation and to check the version installed run the command "node -v".
 - Creation
@@ -11,6 +11,6 @@ This is next js 14 project.
 - Run the application
   Once the installation process of our basic Next.js project is done we can run the command "npm run dev" or "yarn dev".
 
-Steps to build an android and ios app using capacitor
+# Steps to build an android and ios app using capacitor
 - 
   
