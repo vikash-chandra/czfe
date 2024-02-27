@@ -12,7 +12,7 @@ This is next js 14 project.
   Once the installation process of our basic Next.js project is done, enter the current working directory by running the command "cd app_name" and then run the command "npm run dev" or 
   "yarn dev".
 
-# Steps to build an android and ios app using capacitorjs
+# Steps to build an android and iOS app using capacitorjs
 - Create a basic Next.js project by following all the neccessary steps.
 - Install Capacitor
   Firstly to convert it into a mobile app we need to install few dependencies. To do the same run the commands "npm i @capacitor/core" and "npm i -D @capacitor/cli".
