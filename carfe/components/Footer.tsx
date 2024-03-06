@@ -176,7 +176,7 @@ const Footer = () => {
           </svg>
           +91 8860997977
         </p>
-        <CustomButton title="Book Demo" btnType="button" containerStyles='font-semibold text-white rounded bg-blue-500 min-w-[130px] mx-3 py-3 px-3' />
+        <CustomButton title="Book Demo" btnType="button" containerStyles='font-semibold text-white rounded-lg bg-blue-500 min-w-[130px] mx-3 py-3 px-3' />
       </div>
     </div>
   </div>
